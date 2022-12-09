@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ben-Jian
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding(sometimes)
 - 🌱 I’m currently learning python
 - 📫 How to reach me instagram @this_is_ben328
 
